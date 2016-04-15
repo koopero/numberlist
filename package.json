@@ -1,0 +1,25 @@
+{
+  "name": "numberlist",
+  "version": "0.0.1",
+  "description": "Sorted list of numbers with flexible, efficient querying",
+  "main": "index.js",
+  "scripts": {
+    "test": "sorted numbers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koopero/numberlist.git"
+  },
+  "author": "Samm Cooper <koopero@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koopero/numberlist/issues"
+  },
+  "homepage": "https://github.com/koopero/numberlist#readme",
+  "dependencies": {
+    "lodash": "^4.11.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
